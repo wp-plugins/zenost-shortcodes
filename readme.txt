@@ -3,9 +3,10 @@
 Contributors: Imran Ahmed Khan 
 Tags: post, posts, widgets, shortcodes, accordian, toggle, coloumn, list, heading, button 
 Requires at least: 4.0  
-Tested up to: 4.2  
+Tested up to: 4.1.2  
 Stable tag: 1.0
-License: GPLv2 or later  
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 
 Zenost shortcodes plugin used for shortcodes embedding in your posts, pages and widgets for headings, buttons, accordians, columns, lists and toggles. 
@@ -14,7 +15,7 @@ Zenost shortcodes plugin used for shortcodes embedding in your posts, pages and 
 
 Zenost shortcodes plugin used for shortcodes embedding in your posts, pages and widgets for headings, buttons, accordians, columns, lists and toggles. It is supported by font awesome.  Insert directly or use the WYSIWYG editor to insert anywhere.
 
-= Installation =
+== Installation ==
 
 1. Download the Zensot Shortcodes Plugin.
 2. In your WordPress Administration, go to Plugins > Add New > Upload, and select the plugin ZIP file.
@@ -25,11 +26,11 @@ Now you can insert shortcodes directly or by using the WYSIWYG editor in posts, 
 
 
 
-= Support =
+== Support ==
 
 Contact the plugin author: <a href="http://www.imhysoft.com/contact-us/">Imran Ahmed Khan</a>
 
-= Developer =
+== Developer ==
 
 Are you a developer want to contribute to develop this plugin? Go to <a href="http://www.imhysoft.com/contact-us/">Contact Us</a>.
 
