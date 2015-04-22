@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Zenost Shortcodes
-Plugin URI: #
+Plugin URI: http://www.imhysoft.com/products
 Description: Zenost shortcodes plugin used for shortcodes embedding in your posts, pages and widgets for headings, buttons, accordians, columns, lists and toggles. It is supported by font awesome.  Insert directly or use the WYSIWYG editor to insert anywhere.
 Author: Imran Ahmed Khan
 Author URI: http://www.imhysoft.com/
